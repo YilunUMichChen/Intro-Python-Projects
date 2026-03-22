@@ -11,9 +11,13 @@ Unlike the traditional game, this version introduces enhanced mechanics:
 
 ## Tech Stack
 - **Language:** Python 3
-- **Library:** `turtle` (GUI & Event-driven programming), `random`, `functools`, `time`
+- **Libraries:** `turtle` (GUI & Event-driven programming), `random`, `functools`, `time`
 
 ## How to Play
-1. Run the script:
-   ```bash
-   python snake_monster_game.py
+
+1. Run the script by executing the following command in your terminal:
+
+`python snake_monster_game.py`
+
+2. Click anywhere on the screen to start the game.
+3. Use the **Up, Down, Left, Right** arrow keys to maneuver the snake.
